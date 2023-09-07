@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/A__Z/Codes/Android/TvShows/app/src/main/res/drawable/background_back_button.xml" value="0.1175" />
+        <entry key="..\:/A__Z/Codes/Android/TvShows/app/src/main/res/drawable/background_fading_edge.xml" value="0.1" />
+        <entry key="..\:/A__Z/Codes/Android/TvShows/app/src/main/res/drawable/background_slider_indicator_active.xml" value="0.1" />
+        <entry key="..\:/A__Z/Codes/Android/TvShows/app/src/main/res/drawable/background_slider_indicator_inactive.xml" value="0.1" />
+        <entry key="..\:/A__Z/Codes/Android/TvShows/app/src/main/res/drawable/background_tv_show.xml" value="0.1" />
+        <entry key="..\:/A__Z/Codes/Android/TvShows/app/src/main/res/font/fontsapp.xml" value="0.1638888888888889" />
+        <entry key="..\:/A__Z/Codes/Android/TvShows/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/A__Z/Codes/Android/TvShows/app/src/main/res/layout/activity_search.xml" value="0.1" />
+        <entry key="..\:/A__Z/Codes/Android/TvShows/app/src/main/res/layout/activity_tv_show_details.xml" value="0.17665450755601875" />
+        <entry key="..\:/A__Z/Codes/Android/TvShows/app/src/main/res/layout/item_container_episode.xml" value="0.1765625" />
+        <entry key="..\:/A__Z/Codes/Android/TvShows/app/src/main/res/layout/item_container_tv_show.xml" value="0.1" />
+        <entry key="..\:/A__Z/Codes/Android/TvShows/app/src/main/res/layout/layout_container_slider_image.xml" value="0.1765625" />
+        <entry key="..\:/A__Z/Codes/Android/TvShows/app/src/main/res/layout/layout_episodes_bottom_sheet.xml" value="0.1765625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
